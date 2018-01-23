@@ -1,2 +1,3 @@
-# intro-imaging-msu
-exercises and additional materials for Seismic Imaging course at MSU
+## intro-imaging-msu
+
+Упражнения, лекции и материалы по курсу "Введение в построение сейсмических изображений"
