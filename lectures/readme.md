@@ -16,4 +16,4 @@
 10. [(остутствует)Миграция продолжением волновых полей. RTM, WEM]()
 
 Для того, чтобы скачать файл по ссылке, надо на открывшейся странице щелкнуть на кнопку Download
-![Download-info](./misc/how_to_download.png)
+![Download-info](../misc/how_to_download.png)
