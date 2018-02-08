@@ -11,4 +11,4 @@
 
 4. Миграция в обратном времени
 	- html версия - [скачать](https://github.com/antongrin/intro-imaging-msu/raw/master/exercises/ex_04-html_RTM.rar)
-    - Notebook - [открыть](ex_03-NB_Kirchhoff_Mig_v5_for_students.ipynb) / [скачать](https://github.com/antongrin/intro-imaging-msu/raw/master/exercises/ex_04-NB_RTM_for_students.ipynb)
+    - Notebook - [открыть](ex_04-NB_RTM_for_students.ipynb) / [скачать](https://github.com/antongrin/intro-imaging-msu/raw/master/exercises/ex_04-NB_RTM_for_students.ipynb)
